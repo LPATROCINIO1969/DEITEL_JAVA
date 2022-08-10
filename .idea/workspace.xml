@@ -5,24 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fe1c91-784c-4167-adc5-3951b6960704" name="Changes" comment="Exercícios dos capítulos 1 a 4.">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap2/Addition.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap2/Comparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap2/Welcome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap3/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap3/AccountTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap3/NameDialog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap4/ClassAverage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap4/DrawPanel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap4/DrawPanelTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cap4/StudentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap5/AutoPolicy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap5/AutoPolicyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap5/ShapeTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap5/Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap6/Craps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap6/DrawSmiley.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap6/DrawSmileyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap7/ArrayListCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap7/ArrayManipulations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap7/DrawRainBow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap7/DrawRainBowTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap7/GradeBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap7/GradeBookTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap7/RollDice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap7/VarargsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/DrawPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/EmployeeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/EnumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/Interest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/MyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/TestDraw.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/Time1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/Time1Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/Time2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cap8/Time2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +43,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -57,13 +69,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DrawPanelTest">
-    <configuration name="AccountTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap3.AccountTest" />
+  <component name="RunManager" selected="Application.TestDraw">
+    <configuration name="EmployeeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap8.EmployeeTest" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap3.*" />
+          <option name="PATTERN" value="cap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassAverage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap4.ClassAverage" />
+    <configuration name="EnumTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap8.EnumTest" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap4.*" />
+          <option name="PATTERN" value="cap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DrawPanelTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap4.DrawPanelTest" />
+    <configuration name="Interest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap8.Interest" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap4.*" />
+          <option name="PATTERN" value="cap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NameDialog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap3.NameDialog" />
+    <configuration name="TestDraw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap8.TestDraw" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap3.*" />
+          <option name="PATTERN" value="cap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cap4.StudentTest" />
+    <configuration name="Time2Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cap8.Time2Test" />
       <module name="untitled" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cap4.*" />
+          <option name="PATTERN" value="cap8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,11 +137,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DrawPanelTest" />
-        <item itemvalue="Application.ClassAverage" />
-        <item itemvalue="Application.StudentTest" />
-        <item itemvalue="Application.NameDialog" />
-        <item itemvalue="Application.AccountTest" />
+        <item itemvalue="Application.TestDraw" />
+        <item itemvalue="Application.Interest" />
+        <item itemvalue="Application.EmployeeTest" />
+        <item itemvalue="Application.EnumTest" />
+        <item itemvalue="Application.Time2Test" />
       </list>
     </recent_temporary>
   </component>
@@ -142,6 +154,21 @@
       <option name="presentableId" value="Default" />
       <updated>1658755359937</updated>
     </task>
+    <task id="LOCAL-00001" summary="Exercícios dos capítulos 1 a 4.">
+      <created>1658865370402</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1658865370402</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Exercícios dos capítulos 1 a 4.">
+      <created>1658865420796</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658865420796</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
